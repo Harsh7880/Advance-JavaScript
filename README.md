@@ -7,6 +7,8 @@ This repository contains practice code for various advanced JavaScript topics, i
 * Promise APIs
 * Async/await
 * `this` Keyword
+* OOP's
+* protoType, prototype chaining, prototypical inheritance
 
 The code in this repository is intended for educational purposes and to help you solidify your understanding of these advanced JavaScript concepts.
 
