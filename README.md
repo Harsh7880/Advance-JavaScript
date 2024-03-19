@@ -9,6 +9,8 @@ This repository contains practice code for various advanced JavaScript topics, i
 * `this` Keyword
 * OOP's
 * protoType, prototype chaining, prototypical inheritance
+* Classes
+* Inheritance
 
 The code in this repository is intended for educational purposes and to help you solidify your understanding of these advanced JavaScript concepts.
 
